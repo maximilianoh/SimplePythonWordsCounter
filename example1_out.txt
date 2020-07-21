@@ -1,0 +1,10 @@
+LOREM: 13
+IPSUM: 12
+AND: 10
+IT: 9
+IN: 8
+IS: 7
+BY: 6
+FROM: 6
+HAS: 4
+TEXT: 4

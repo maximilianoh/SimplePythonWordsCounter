@@ -1,7 +1,7 @@
 {
   "file": "./example1.txt",
   "outputFile": true,
-  "minimOccurrences": 4,
+  "minimOccurrences": 1,
   "ignoreWords": [
     "LA",
     "LO",
@@ -39,6 +39,7 @@
     "SOBRE",
     "THE",
     "HAY",
-    "OF"
+    "OF",
+    "DE LA"
   ]
 }
